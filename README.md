@@ -10,7 +10,7 @@
 -Reach out to me through the links on my profile, or email me directly on AleksySiek02@gmail.com
 
 
--Here is my Portfolio http://www.aleksysiek.com/
+-Here is my Portfolio https://aleksysiek.netlify.app/
 
 
 -Thanks for reading !
